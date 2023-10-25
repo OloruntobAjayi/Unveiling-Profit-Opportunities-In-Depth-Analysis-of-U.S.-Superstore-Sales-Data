@@ -108,7 +108,7 @@ Based on the analysis:
 ## Acknowledgemnent 🙏 🙏
 
 Online sources were used to obtain the first and last image in this documentation:
-- https://pngtree.com
-- https://www.freepik.com
+- https://images.unsplash.com
+- https://www.etsy.com
 
 
