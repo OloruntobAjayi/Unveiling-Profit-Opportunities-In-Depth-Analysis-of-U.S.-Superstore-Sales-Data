@@ -43,7 +43,7 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 
 ## Data Sourcing:
 
-The medical student data was provided by the instructor in CSV format. The dataset contained information about medical students, including age, gender, BMI, temperature, heart rate, blood pressure, cholesterol, height, weight, blood group, smoking status, and diabetes status.
+The dataset, supplied by the instructor in CSV format, encompassed an array of details concerning the US SuperStore. This comprehensive dataset included information such as Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, and various geographic parameters like Country, City, State, Postal Code, and Region. It also featured product-specific data like Product ID, Category, Sub-Category, and Product Name, alongside transaction-specific details such as Sales, Quantity, Discount, Profit, Shipping Time, and Profit Margin.
 
 
 ## Data Transformation:
