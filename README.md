@@ -16,17 +16,19 @@ _**Disclaimer**_ ⚠️- _All data used for this analysis are hypothetical data 
 
 ## U.S SUPERSTORE
 The task will address the following KPIs and Business questions respectively...
-1. Total Sale Revenue within the five years of operation: how has sales revenue changed over the past years?
+1. Total Sales within the five years of operation: how has sales revenue changed over the past years?
 2. Sales by Region/State: which region is our strongest market and which are underperforming?
 3. Ship Mode: how efficient is our ship mode in terms of delivery times, and how can improvements in ship mode selection positively impact customer service and cost-effectiveness?
 4. Discount by Region: how do discount rates vary by region, and what impact do these variations have on regional sales, and overall profitability?
 5. Total Profit within the five years of operation: how has profit changed over the past years considerng profit by region, product with the highest profit and the underperforming product.
 
-![](Picture.png)
+**Data Set**                                    |   **Overall Summary of the Data**             
+:----------------------------------------------:|:--------------------------------:
+![](f2.png)                                     |          ![](f1.png)               
 
 ## Problem Statement:
 
-The primary goal of the analysis is to examine and draw important conclusions from a dataset of medical students' demographic data, health metrics, and lifestyle choices. Understanding the variations between the male and female students, blood types, smoking patterns, and diabetes status.
+My goal is to extract meaningful insights from the sales and profit statistics of a U.S. superstore through a comprehensive five-year examination. In particular, I'll look at how sales income has changed over time, pinpoint the strongest and weakest areas, analyze the effectiveness of the selected shipping options, look into regional differences in discount rates, and gauge the total profitability. Through the interconnection of these essential components, this thorough analysis aims to uncover potential for revenue optimization, cost reduction, and customer service improvement. Maximizing the superstore's profitability and operational effectiveness is the ultimate objective.
 
 
 ## Skill and Concept Demonstrated:
@@ -34,10 +36,10 @@ The primary goal of the analysis is to examine and draw important conclusions fr
 The analysis had demonstrated a range of essential data analysis skills, such as:
 - Data extraction
 - Data Cleaning and Transformation
+- Data Validation
+- Excel functions (e.g., XLOOKUP, SUM, AVERAGE, COUNTIF, MAX and MIN)
 - Statistical measures and conditional logic to make data-driven decisions.
-- Excel functions (e.g., AVERAGEIF)
-- Pivot Table Creation and Analysis
-- Data Visualization
+- Data Visualization and Analysis
 
 ## Data Sourcing:
 
@@ -46,38 +48,47 @@ The medical student data was provided by the instructor in CSV format. The datas
 
 ## Data Transformation:
 
-After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve missing values, removing more than 40,000 blanks. To ensure data accuracy, data validation and verification were done after that.:muscle:
+Upon importing the CSV data into Microsoft Excel, thorough data cleaning processes were started. This involved the elimination of duplicate values and eradication of any missing data entries. Data validation and verification procedures were strictly followed in order to improve data correctness and integrity; this comprehensive approach to data preparation ensured that the dataset was pristine and well-suited for subsequent analysis.:muscle:
 
-## Pivot Table Representation:
+## DAta Visualization and Analysis
 
-### *Average value for the gender (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol)*
+### *Total Sales within the five years of operation*
 
-![](AVG_AGE.png)
+![](Sales_trend.png)
 
-### *Average Height and Weight for both Genders (in 2 decimal places)*
+### *Sales by Region/State: Region with strongest market and underperforming region as well as Top 10 States*
 
-![](AVG_HGH.png)
+*Sales by Region*                               |   *Top 10 States*                
+:----------------------------------------------:|:--------------------------------:
+![](Sales_Region.png)                           |      ![](Sale_by_S.png)                 
+
+### *Ship Mode: Efficiency of the shippng mode, Frequency of Days in delivery times, and Most used shipping mode*
+:fire: Kindly click on each of the pictures to get a proper view.
 
 
 
-*Student count across Blood Groups*             |   *Smoking Status*               |   *Diabetes Status*
-:----------------------------------------------:|:--------------------------------:|:---------------:
-![](Bloodgroup.png)                             | ![](Smokers.png)                 |  ![](Diabetes.png)
+*Efficiency of the shippng mode*      |   *Frequency of Days in delivery times*     | *Most used shipping mode*
+:------------------------------------:|:-------------------------------------------:|:-------------------------:
+![](Shipmod.png)                      |        ![](Frequency_Days.png)              |   ![](Shipmode.png)
 
 
-## Visualization and Analysis
+## *Discount by Region: Total discount given by region*
+![](Discount_Region.png)  
 
-From the pivot table, the following insight were achieved:
 
-![](Picture1_AAge.png)
+## *Total Profit within the five years of operation*
+![](QuarterlyProfit.png) 
+
+In pursuit of a more comprehensive understanding of our profit dynamics, a detailed investigation was undertaken. The analysis delved into profit margins across sub-categories, profit distribution by region, and the identification of products driving the highest profitability. Simultaneously, it brought to light the underperforming products that warrant particular attention. The following insights emerged from this rigorous examination:
+
+
+![](ProfitMargin.png)
 ----
-![](Picture2_AWeight.png)
+![](Pofit_Region.png)
 ----
-![](Picture3_Smokers.png)
-----
-![](Picture4_Diabetes.png)
-----
-![](Picture5_Blood.png)
+*Product with High Profit*                         |        *Product with Low Profit*     
+:-------------------------------------------------:|:---------------------------------------------:
+![](Product_High_Profit.png)                       |        ![](Product_Low_Profit.png)  
 ----
 
 
