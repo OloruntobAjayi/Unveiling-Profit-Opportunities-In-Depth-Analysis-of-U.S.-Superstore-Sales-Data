@@ -73,7 +73,7 @@ Upon importing the CSV data into Microsoft Excel, thorough data cleaning process
 
 
 ## *Discount by Region: Total discount given by region*
-![](Discount_Region.png)  
+![](Discount_Region1.png)  
 
 
 ## *Total Profit within the five years of operation*
@@ -96,18 +96,14 @@ In pursuit of a more comprehensive understanding of our profit dynamics, a detai
 
 Based on the analysis:
 
-- I discovered a need to clarify the "Unspecified" category in the dataset; it's essential to investigate and categorize the 20,000 unspecified cases. Without knowing their smoking status, it's challenging to make informed decisions or provide targeted support or interventions.
-- Implement a process to reach out to these students to determine their smoking status, whether they are smokers, non-smokers, or former smokers. This can be done through surveys, interviews, or self-reporting mechanisms.
-- Promote smoking cessation programs with 36,029 students identified as smokers, there is a significant opportunity to implement smoking cessation programs within the medical student community.
-- Programs can include counseling, access to nicotine replacement therapy, educational materials, and support groups.Encourage and incentivize smokers to participate in these programs to help them quit smoking and improve their overall health.
-- In regards to the 18,014 diabetic students, provide diabetes-specific health education and monitoring programs for them, emphasizing on self-care, regular glucose monitoring, and lifestyle management.
-- Collaborate with campus cafeterias to offer healthier, diabetes-friendly meal choices and provide nutritional information, promoting better dietary options for them.
+- The five-year analysis of total U.S. store sales reveals consistent year-on-year growth with seasonal fluctuations. The peak, in **Q4 2017**, saw **277,806 units sold**. However, a concerning drop in **Q1 2018** demands swift action to sustain our positive sales trajectory.
+- The analysis highlights substantial disparities in sales performance, with the West and East regions achieving the highest figures at **725,458** and **678,781,** while the South region lags behind at **391,722.** To address this, recommend focused marketing and product strategies to revitalize the underperforming South region. Simultaneously, advise maintaining vigilance in the thriving West and East regions by staying attuned to market dynamics and evolving customer preferences, ensuring sustained growth.
+- Upon scrutinizing shipping times, it is evident that, on average, order fulfillment occurs within a commendable four-day window, encompassing **6,001 orders**. However, the focus now pivots toward the remaining **3,993 orders** exceeding this threshold. To rectify this, it is advised to optimize inventory management by streamlining stock levels to curtail delays and enhance logistics processes. This entails exploring strategies to expedite the shipping process and reduce delivery times for the outstanding orders.
+- The examination of discount rates across regions uncovers intriguing insights. Surprisingly, the Central region leads in customer discount allocation, despite this, it displays a negative impact on sales profitability, yielding the lowest profit at **$39,706.** In contrast, the West region, while being third in terms of discount allocation, attains the highest profit at **$108,418.** To rectify this profit gap, three key recommendations include optimizing pricing strategies, reassessing discount allocation, and conducting a competitive analysis to refine the product mix and pricing in the Central region.
+- Lastly, the analysis of profit dynamics unveils a crucial pattern: a peak in **Q4 2016** at **$38,414** followed by an alarming **Q1 2018 decline,** necessitating thorough examination. Notably, the West region excels in profitability, whereas the Central region lags. Additionally, we've identified the highest and lowest-profit products. In response, recommended actions include scrutinizing **Q1 2018,** optimizing Central region sales and marketing strategies, and a comprehensive product mix analysis, encompassing potential expansion and reevaluation of underperforming products.
 
-Lastly, it would be beneficial to periodically update the data and conduct follow-up assessments to track changes in the smoking status and diabete status as well as the effectiveness intervention programs put in place.
-
-![](GoodH.png)
+![](X6.png)
 ---
-# THANK YOU !
 
 ## Acknowledgemnent 🙏 🙏
 
